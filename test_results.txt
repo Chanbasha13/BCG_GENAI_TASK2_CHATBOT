@@ -1,0 +1,31 @@
+GFC Financial Chatbot - Test Results
+
+1. User: What is Microsoft's revenue in 2025?
+Bot: Microsoft's revenue in 2025 was $281,724 million.
+
+2. User: What is Tesla's net income in 2024?
+Bot: Tesla's net income in 2024 was $7,153 million.
+
+3. User: What is Apple's revenue in 2025?
+Bot: Apple's revenue in 2025 was $416,161 million.
+
+4. User: What was Microsoft's operating cash flow in 2025?
+Bot: Microsoft's operating cash flow in 2025 was $136,162 million.
+
+5. User: What were Apple's total assets in 2025?
+Bot: Apple's total assets in 2025 were $359,241 million.
+
+6. User: What were Tesla's total liabilities in 2025?
+Bot: Tesla's total liabilities in 2025 were $54,941 million.
+
+7. User: How did Microsoft's revenue change from 2023 to 2025?
+Bot: Microsoft's revenue increased by 32.94% from 2023 to 2025.
+
+8. User: Hello
+Bot: Hello! I am the GFC Financial Chatbot.
+
+9. User: What can you do?
+Bot: I can provide information about revenue, net income, operating cash flow, total assets, and total liabilities.
+
+10. User: Tell me about Google's revenue
+Bot: Sorry, I could not identify a supported company. Please ask about Microsoft, Tesla, or Apple.
